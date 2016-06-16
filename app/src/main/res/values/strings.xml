@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">哈哈吧</string>
+    <string name="service_error">您的网络好像出现问题了～</string>
+    <string name="sctipt">纯文</string>
+    <string name="image">图文</string>
+    <string name="message">消息</string>
+    <string name="mine">我的</string>
+    <string name="recyclerview_footer_hint_normal">上拉加载更多...</string>
+    <string name="recyclerview_footer_hint_loading">正在加载...</string>
+    <string name="recyclerview_footer_hint_no_more">加载失败...</string>
+    <string name="share_success">&#160;&#160;分享成功啦</string>
+    <string name="share_faile">&#160;&#160;分享失败啦</string>
+    <string name="share_cancel">&#160;&#160;分享取消啦</string>
+
+    <string name="client_id">25cfb96ea8e3510b</string>
+
+    <string name="channel_Id">baidu</string>
+</resources>

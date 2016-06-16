@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cl.papa.MainActivity"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="false"
+    android:background="@color/bg_main"
+    android:orientation="vertical"
+   >
+
+    <FrameLayout
+        android:id="@+id/id_content"
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:background="@android:color/white"
+       android:layout_weight="1"
+        />
+
+    <RadioGroup
+        android:id="@+id/rg_content_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bg_main"
+        android:orientation="horizontal"
+        android:padding="8.0dip">
+
+
+
+        <RadioButton
+            android:id="@+id/rb_bottom_script"
+            style="@style/bottom_radio_style"
+            android:checked="true"
+            android:drawableTop="@drawable/selector_btn_main_tab_script"
+            android:text="纯文" />
+
+        <RadioButton
+            android:id="@+id/rb_bottom_image"
+            style="@style/bottom_radio_style"
+            android:drawableTop="@drawable/selector_btn_main_tab_image"
+            android:text="图文" />
+
+        <RadioButton
+            android:id="@+id/rb_bottom_video"
+            style="@style/bottom_radio_style"
+            android:drawableTop="@drawable/selector_btn_main_tab_video"
+               android:text="视频"
+               />
+          <!-- <RadioButton
+               style="@style/bottom_radio_style"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="发布"
+               android:visibility="invisible" />
+
+           <RadioButton
+               android:id="@+id/rb_bottom_message"
+               style="@style/bottom_radio_style"
+               android:drawableTop="@drawable/selector_btn_main_tab_message"
+               android:text="消息" />
+
+           <RadioButton
+               android:id="@+id/rb_bottom_mine"
+               style="@style/bottom_radio_style"
+               android:drawableTop="@drawable/selector_btn_main_tab_mine"
+               android:text="我的" />-->
+    </RadioGroup>
+
+
+
+<!--
+
+    <Button
+        android:id="@+id/rb_bottom_found"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/rg_content_bottom"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_vertical"
+        android:drawableTop="@drawable/ic_post_p"
+        android:background="@android:color/transparent"
+        android:button="@android:color/transparent"
+        android:gravity="center"
+        android:text="发布"
+        android:paddingBottom="8dp"
+        android:textColor="@color/bottom_main_tab_title"
+        android:textSize="10.0sp"
+        />
+
+-->
+
+
+</LinearLayout>

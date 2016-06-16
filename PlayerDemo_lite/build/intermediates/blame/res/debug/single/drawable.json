@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable\\popwinselector.xml",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable\\popwinselector.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable\\nonedrawable.xml",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable\\nonedrawable.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable\\vidqbg.xml",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable\\vidqbg.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable\\yp_progressbarstyle.xml",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable\\yp_progressbarstyle.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable\\vidqtxt.xml",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable\\vidqtxt.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable\\yp_progress_holo_light.xml",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable\\yp_progress_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable\\yp_progressthumbstyle.xml",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable\\yp_progressthumbstyle.xml"
+    }
+]

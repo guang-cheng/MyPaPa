@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\plugin_ad_gofull_tudou.png",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable-xhdpi-v4\\plugin_ad_gofull_tudou.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\plugin_ad_gofull_youku.png",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable-xhdpi-v4\\plugin_ad_gofull_youku.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\plugin_ad_more_youku.png",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable-xhdpi-v4\\plugin_ad_more_youku.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\plugin_ad_gosmall_youku.png",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable-xhdpi-v4\\plugin_ad_gosmall_youku.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tudou_details_big_play_icon.png",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable-xhdpi-v4\\tudou_details_big_play_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\plugin_ad_gosmall_tudou.png",
+        "source": "E:\\Android\\Studio_Projects\\MyPaPa\\PlayerDemo_lite\\build\\intermediates\\exploded-aar\\MyPaPa\\YoukuPlayerOpenSDK\\unspecified\\res\\drawable-xhdpi-v4\\plugin_ad_gosmall_tudou.png"
+    }
+]

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:snser="http://schemas.android.com/apk/res-auto"
+    android:background="@color/split_line"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_bg_adapter_item"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:id="@+id/layout_item"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:padding="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:weightSum="1"
+            >
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+
+                >
+                <com.cl.papa.view.ImageViewPlus
+                    android:id="@+id/iv_user_icon"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@color/bg_main"
+                    android:scaleType="centerInside"
+                    snser:type="rounded_rect"
+                    snser:borderColor="#FF0080FF"
+                    snser:borderWidth="0dp"
+                    snser:rectRoundRadius="10dp"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1.0">
+                <TextView
+                    android:id="@+id/tv_user_nice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:singleLine="true"
+                    android:ellipsize="end"
+                    android:textColor="@color/bottom_main_tab_title"
+                    android:textSize="10dp"
+
+                    android:text="趣闻"
+
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/share_layout"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:gravity="right"
+                >
+                <ImageView
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/ic_share"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+    <RelativeLayout
+         android:layout_width="wrap_content"
+   		 android:layout_height="fill_parent"
+        >
+
+        <ImageView
+            android:id="@+id/iv_item"
+            android:layout_width="96.0dip"
+            android:layout_height="72.0dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/tv_item_topic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:layout_toLeftOf="@+id/iv_item"
+            android:layout_alignParentTop="true"
+            android:ellipsize="end"
+            android:lines="2"
+            android:text="上海沪昆高速一槽罐车侧翻 部分化学品泄漏(图)学品泄漏(图)"
+            android:textColor="@color/font_color_tv"
+            android:textSize="18sp" />
+
+        <View
+            android:id="@+id/vieww"
+            android:layout_width="10.0dip"
+            android:layout_height="11.0dip"
+            android:layout_below="@+id/tv_item_topic"
+            android:layout_toRightOf="@+id/iv_item" />
+
+
+
+        <LinearLayout
+            android:id="@+id/ll_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tv_item_topic"
+            android:layout_below="@+id/vieww"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+             >
+			
+            <TextView
+                android:id="@+id/tv_item_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="00:05:33"
+                android:textColor="#ffb8b8b7"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>
+
+   <!-- <View
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="0.30000007dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:background="#ffe0e0e0" />-->
+
+</LinearLayout>

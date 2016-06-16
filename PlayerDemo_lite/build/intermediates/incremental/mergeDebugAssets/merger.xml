@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="E:\Android\Studio_Projects\MyPaPa\PlayerDemo_lite\build\intermediates\exploded-aar\MyPaPa\YoukuPlayerOpenSDK\unspecified\assets"/></dataSet><dataSet config="main"><source path="E:\Android\Studio_Projects\MyPaPa\PlayerDemo_lite\assets"/></dataSet><dataSet config="debug"><source path="E:\Android\Studio_Projects\MyPaPa\PlayerDemo_lite\build-types\debug\assets"/></dataSet></merger>
